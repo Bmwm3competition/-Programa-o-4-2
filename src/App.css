@@ -1,0 +1,22 @@
+body{
+  background-color: aliceblue;
+    display : flex ;
+    justify-content:center ;
+    align-items: center ;
+
+}
+section{
+    width: 500 px;
+    height: 25vh ;
+    border: 1px solid aliceblue;
+    margin-top: 35vh;
+}
+textearea{
+    width: 70%;
+    height: 20vh;
+    margin-top: 2.5 vh;
+    border-radius: 10 px;
+    background-color: black;
+    border: 0;
+    resize: nome;
+}
